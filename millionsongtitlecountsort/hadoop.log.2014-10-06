@@ -1,0 +1,2 @@
+2014-10-06 21:00:11,474 ERROR org.apache.hadoop.mrunit.TestDriver: Expected no outputs; got 1 outputs.
+2014-10-06 21:00:11,477 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (ZTR, 2.4193525) at position 0.

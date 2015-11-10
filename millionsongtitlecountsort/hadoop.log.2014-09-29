@@ -1,0 +1,10 @@
+2014-09-29 21:06:10,429 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (dog, 1) but at incorrect position 2 (expected position 1)
+2014-09-29 21:06:10,431 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (cat, 2) but at incorrect position 1 (expected position 0)
+2014-09-29 21:06:10,432 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (1, 1) at position 0.
+2014-09-29 21:08:21,195 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (dog, 1) but at incorrect position 2 (expected position 0)
+2014-09-29 21:08:21,199 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (1, 1) at position 0.
+2014-09-29 21:09:14,072 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (dog, 1) but at incorrect position 1 (expected position 0)
+2014-09-29 21:09:14,085 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (cat, 2) but at incorrect position 0 (expected position 1)
+2014-09-29 21:10:16,414 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (dog, 1) but at incorrect position 2 (expected position 1)
+2014-09-29 21:10:16,421 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (cat, 2) but at incorrect position 1 (expected position 0)
+2014-09-29 21:10:16,421 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (1, 1) at position 0.

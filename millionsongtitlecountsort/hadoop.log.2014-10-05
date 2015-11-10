@@ -1,0 +1,8 @@
+2014-10-05 01:11:23,954 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (ZTR, 2.42) at position 0.
+2014-10-05 01:11:23,959 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (ZTR, 2.4193525) at position 0.
+2014-10-05 01:31:31,458 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (ZTR, 8.13) at position 0.
+2014-10-05 01:31:31,463 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (ZTR, 8.11) at position 0.
+2014-10-05 02:09:32,138 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (ZTR, 2.4193525) at position 0.
+2014-10-05 02:12:53,425 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (, NaN) at position 0.
+2014-10-05 02:20:30,659 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (, NaN) at position 0.
+2014-10-05 02:27:51,069 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (, NaN) at position 0.

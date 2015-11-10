@@ -1,0 +1,19 @@
+2014-12-06 02:02:21,075 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (air, 1) at position 3.
+2014-12-06 02:02:21,076 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (clear, 1) at position 2.
+2014-12-06 02:02:21,077 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (in, 1) at position 1.
+2014-12-06 02:02:21,077 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (lark, 1) at position 0.
+2014-12-06 02:02:21,078 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (forever, 1) at position 0.
+2014-12-06 02:03:11,504 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (air, 1) at position 3.
+2014-12-06 02:03:11,505 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (clear, 1) at position 2.
+2014-12-06 02:03:11,505 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (in, 1) at position 1.
+2014-12-06 02:03:11,505 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (lark, 1) at position 0.
+2014-12-06 02:03:11,506 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (forever, 1) at position 0.
+2014-12-06 02:06:28,932 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (air, 1) but at incorrect position 5 (expected position 3)
+2014-12-06 02:06:28,933 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (clear, 1) but at incorrect position 4 (expected position 2)
+2014-12-06 02:06:28,934 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (in, 1) but at incorrect position 2 (expected position 1)
+2014-12-06 02:06:28,934 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (lark, 1) but at incorrect position 1 (expected position 0)
+2014-12-06 02:06:28,934 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (the, 1) at position 0.
+2014-12-06 02:06:28,934 ERROR org.apache.hadoop.mrunit.TestDriver: Received unexpected output (the, 1) at position 3.
+2014-12-06 02:07:51,513 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (air, 1) but at incorrect position 2 (expected position 3)
+2014-12-06 02:07:51,520 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (clear, 1) but at incorrect position 1 (expected position 2)
+2014-12-06 02:07:51,521 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (in, 1) at position 1.

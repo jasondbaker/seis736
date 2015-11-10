@@ -1,0 +1,1 @@
+2014-11-23 19:36:46,825 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (3, the) at position 1.
